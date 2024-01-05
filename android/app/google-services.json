@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202123440460",
+    "project_id": "parikshan-flutter",
+    "storage_bucket": "parikshan-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202123440460:android:1a3a484c4603f9a5bf5fe9",
+        "android_client_info": {
+          "package_name": "com.example.terrain_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AyAhKBE_EErWS4A5FRCKyWflK7rUyL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
