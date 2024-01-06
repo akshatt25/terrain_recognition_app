@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "202123440460",
-    "project_id": "parikshan-flutter",
-    "storage_bucket": "parikshan-flutter.appspot.com"
+    "project_number": "659377862675",
+    "project_id": "parikshan1-445a3",
+    "storage_bucket": "parikshan1-445a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:202123440460:android:1a3a484c4603f9a5bf5fe9",
+        "mobilesdk_app_id": "1:659377862675:android:64ef7c5fac1c206b9827e6",
+        "android_client_info": {
+          "package_name": "com.example.parikshan1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBudW7_Xv6zjYrbWh6Lb9N0kPGnGTKxkcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659377862675:android:4191fde733aabd039827e6",
         "android_client_info": {
           "package_name": "com.example.terrain_recognition"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC3AyAhKBE_EErWS4A5FRCKyWflK7rUyL8"
+          "current_key": "AIzaSyBudW7_Xv6zjYrbWh6Lb9N0kPGnGTKxkcY"
         }
       ],
       "services": {
