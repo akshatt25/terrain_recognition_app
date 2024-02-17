@@ -1,16 +1,4 @@
 # terrain_recognition
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# screenshots
+<img src="https://github.com/akshatt25/infoware/blob/main/folder/Screenshot_1708099924.png" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/infoware/blob/main/folder/Screenshot_1708099936.png" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/infoware/blob/main/folder/Screenshot_1708099958.png" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/infoware/blob/main/folder/Screenshot_1708099977.png" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/infoware/blob/main/folder/Screenshot_1708099984.png" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;"> 
