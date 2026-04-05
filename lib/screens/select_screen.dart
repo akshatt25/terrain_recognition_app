@@ -6,7 +6,6 @@ import 'package:terrain_recognition/screens/prediction_screen.dart';
 import 'package:terrain_recognition/services/api_call.dart';
 import 'package:terrain_recognition/services/camera_image.dart';
 import 'package:terrain_recognition/services/firebase_upload.dart';
-import '../constants/terrain_data.dart';
 import '../services/gallery_image.dart';
 
 class SelectScreen extends StatefulWidget {
