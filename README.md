@@ -1,16 +1,4 @@
 # terrain_recognition
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[ML Model & API](https://gitlab.com/dellure/Parikshan1)
+# screenshots
+<img src="https://github.com/akshatt25/terrain_recognition/blob/main/folder/Screenshot_2024-02-07-23-46-06-735_com.example.terrain_recognition.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/terrain_recognition/blob/main/folder/Screenshot_2024-02-07-23-50-27-807_com.example.terrain_recognition.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/terrain_recognition/blob/main/folder/Screenshot_2024-02-07-23-53-55-673_com.example.terrain_recognition.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/terrain_recognition/blob/main/folder/Screenshot_2024-02-07-23-54-16-782_com.example.terrain_recognition.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;">  <img src="https://github.com/akshatt25/terrain_recognition/blob/main/folder/Screenshot_2024-02-07-23-55-09-630_com.example.terrain_recognition.jpg" alt="Image Alt Text" height="500" style="display:inline-block; margin-right:10px;"> 
